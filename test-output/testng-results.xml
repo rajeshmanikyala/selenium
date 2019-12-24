@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33586" started-at="2019-12-24T18:01:56Z" finished-at="2019-12-24T18:02:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33586" started-at="2019-12-24T18:01:56Z" finished-at="2019-12-24T18:02:30Z">
+      <class name="com.flip.testcases.FlipTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flip.testcases.FlipTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="5081" started-at="2019-12-24T23:31:56Z" finished-at="2019-12-24T23:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flipkartTest()[pri:0, instance:com.flip.testcases.FlipTest@1bce4f0a]" name="flipkartTest" duration-ms="27854" started-at="2019-12-24T23:32:02Z" finished-at="2019-12-24T23:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flip.testcases.FlipTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="633" started-at="2019-12-24T23:32:29Z" finished-at="2019-12-24T23:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flip.testcases.FlipTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
